@@ -4,7 +4,7 @@ This Python-based project is developed to assist educators in analyzing student 
 
 ## Installation
 
-To set up the project environment, ensure that Python 3.x is installed on your machine. Clone the project to your local machine using `git clone` followed by the repository URL.
+To set up the project environment, ensure that Python 3.x is installed on your machine. 
 
 ## Usage
 
@@ -21,7 +21,7 @@ python3 main.py
 
 ## Input and Output
 
-The program accepts a CSV file containing student IDs, subjects, and Z-scores. It outputs Excel documents, images of clusters, and an animated GIF file representing centroid movements
+The program accepts a CSV file containing student IDs, subjects, and Z-scores. It outputs Excel documents, images of clusters, and an animated GIF file representing centroid movements.
 
 ## Libraries Used
 
@@ -30,4 +30,6 @@ The program accepts a CSV file containing student IDs, subjects, and Z-scores. I
 - `openpyxl`: For creating Excel documents.
 - `numpy`: For numerical computations involved in K-means clustering.
 
+## Sample Input and Output
 
+Included within the `sample_data` folder.
